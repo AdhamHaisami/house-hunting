@@ -134,17 +134,6 @@ TEST_DB_URL=postgres://team2:123456@localhost:5432/househunting_test
 * create chat that allows users to contact and negotiate
 
 
-## team
-
-### Lead Mentor :sunglasses:
-* Mariam Isa
-
-### Team Members :busts_in_silhouette:
-* Yasmeen Attallah 
-* Adham Haisami
-* Muhammed Abadsa 
-
-
 ## Resources :mag:
 * https://cloudinary.com/documentation/developer_overview
 * https://material-ui.com/
